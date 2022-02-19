@@ -24,8 +24,8 @@
     "adapter": "hexo",
     "concurrency": 5,
     "baseUrl": "https://www.yuque.com/api/v2",
-    "login": "houzhihoujue-zkge6",
-    "repo": "kbka5m",
+    "login": "",
+    "repo": "",
     "onlyPublished": true,
     "onlyPublic": true
   },
